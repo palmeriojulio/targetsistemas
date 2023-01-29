@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="60bea6e8-6ebc-491f-9156-08576b816d63" name="Changes" comment="" />
+    <list default="true" id="60bea6e8-6ebc-491f-9156-08576b816d63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesafioFaturamento/DesafioVetorFaturamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesafioFaturamento/Fatutamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesafioPersentual/DesafioPersentual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioFibonacci/DesafioFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioPersentual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioSoma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioSoma/DesafioSoma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioString/DesafioString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioVetorFaturamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FatutamentoDiario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dados.json" beforeDir="false" afterPath="$PROJECT_DIR$/dados.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/targetsistemas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/targetsistemas.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KyEsFHQwUaYzfMIxpFPQYzar8v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,12 +39,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/palmerio/Downloads/json-simple-1.1.jar",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DesafioPersentual">
     <configuration name="DesafioFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafioFibonacci" />
+      <option name="MAIN_CLASS_NAME" value="DesafioFibonacci.DesafioFibonacci" />
+      <module name="targetsistemas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioPersentual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioPersentual.DesafioPersentual" />
       <module name="targetsistemas" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -32,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioPersentual" />
         <item itemvalue="Application.DesafioFibonacci" />
       </list>
     </recent_temporary>
@@ -46,5 +87,15 @@
       <updated>1674938629276</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="18" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

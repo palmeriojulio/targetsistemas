@@ -1,3 +1,5 @@
+package DesafioFibonacci;
+
 import java.util.Scanner;
 
 public class DesafioFibonacci {

@@ -1,3 +1,5 @@
+package DesafioSoma;
+
 public class DesafioSoma {
 
     public static void main (String[] args) {
