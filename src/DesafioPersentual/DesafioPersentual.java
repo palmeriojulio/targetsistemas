@@ -1,12 +1,16 @@
 package DesafioPersentual;
 
+import DesafioFaturamento.Fatutamento;
+import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.Reader;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
 public class DesafioPersentual {
     public static void main(String[] args) throws IOException, ParseException {
@@ -25,14 +29,23 @@ public class DesafioPersentual {
 
         JSONParser parser = new JSONParser();
 
-        Reader reader = new FileReader("./dados.json");
+        try {
+            Object obj = parser.parse(new FileReader("/home/palmerio/Programação/Vagas Java Jr/dados.json"));
 
-        JSONObject jsonObject = (JSONObject) parser.parse(reader);
+            JSONArray distribuidores = (JSONArray) obj;
 
-        System.out.println(jsonObject);
+            for (int i = 0; i <= distribuidores.size(); i++) {
+                System.out.println(distribuidores);
+            }
 
+            //Iterator<JSONObject> iterator = distribuidores.iterator();
 
+            //while (iterator.hasNext()) {
+                //System.out.println(iterator.next());
+           // }
 
-
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
     }
 }
