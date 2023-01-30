@@ -23,7 +23,6 @@ public class DesafioFibonacci {
         int nInformado = scanner.nextInt();
 
         for(int i = 0; i < 10; i++){
-
             n1 = n1 + n2;
             n2 = n1 - n2;
 
