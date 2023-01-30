@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="60bea6e8-6ebc-491f-9156-08576b816d63" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesafioFibonacci/DesafioFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioFibonacci/DesafioFibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DesafioString/DesafioString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioString/DesafioString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesafioString/DesafioString01.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
