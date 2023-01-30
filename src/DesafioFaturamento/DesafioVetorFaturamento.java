@@ -2,6 +2,7 @@ package DesafioFaturamento;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class DesafioVetorFaturamento {
     public static void main(String[] args){
@@ -23,7 +24,9 @@ public class DesafioVetorFaturamento {
         fsp.setValor(19849.53);
 
         List<Fatutamento> fList = new ArrayList<>();
-
+        fList.add(fsp);
+        fList.add(frj);
+        System.out.println(fList);
 
     }
 }

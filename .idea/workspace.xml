@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60bea6e8-6ebc-491f-9156-08576b816d63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DesafioString/DesafioString01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DesafioFaturamento/DesafioVetorFaturamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioFaturamento/DesafioVetorFaturamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesafioPersentual/DesafioPersentual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioPersentual/DesafioPersentual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesafioString/DesafioString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioString/DesafioString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +44,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DesafioString" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioString">
+  <component name="RunManager" selected="Application.DesafioString01">
     <configuration name="DesafioFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesafioFibonacci.DesafioFibonacci" />
       <module name="targetsistemas" />
@@ -75,8 +76,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DesafioString01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioString.DesafioString01" />
+      <module name="targetsistemas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesafioString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioVetorFaturamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioFaturamento.DesafioVetorFaturamento" />
+      <module name="targetsistemas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesafioFaturamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioString01" />
+        <item itemvalue="Application.DesafioVetorFaturamento" />
         <item itemvalue="Application.DesafioString" />
         <item itemvalue="Application.DesafioPersentual" />
         <item itemvalue="Application.DesafioFibonacci" />
@@ -115,6 +144,31 @@
           <url>file://$PROJECT_DIR$/src/DesafioString/DesafioString.java</url>
           <line>26</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DesafioString/DesafioString01.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DesafioString/DesafioString01.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DesafioString/DesafioString01.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DesafioString/DesafioString01.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DesafioString/DesafioString01.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
