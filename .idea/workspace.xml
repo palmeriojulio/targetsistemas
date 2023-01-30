@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="60bea6e8-6ebc-491f-9156-08576b816d63" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesafioString/DesafioString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioString/DesafioString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioFaturamento/DesafioVetorFaturamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioFaturamento/DesafioVetorFaturamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioFaturamento/Fatutamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioFaturamento/Fatutamento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <recent name="DesafioString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioString">
+  <component name="RunManager" selected="Application.DesafioVetorFaturamento">
     <configuration name="DesafioFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesafioFibonacci.DesafioFibonacci" />
       <module name="targetsistemas" />
@@ -103,9 +104,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioVetorFaturamento" />
         <item itemvalue="Application.DesafioString" />
         <item itemvalue="Application.DesafioString01" />
-        <item itemvalue="Application.DesafioVetorFaturamento" />
         <item itemvalue="Application.DesafioPersentual" />
         <item itemvalue="Application.DesafioFibonacci" />
       </list>

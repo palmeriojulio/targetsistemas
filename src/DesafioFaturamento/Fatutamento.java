@@ -6,7 +6,6 @@ import java.math.BigDecimal;
 public class Fatutamento implements Serializable {
 
     private static final long serialVersionUID = 1L;
-    private long id;
     private String dia;
     private String uf;
     private double valor;
@@ -14,19 +13,10 @@ public class Fatutamento implements Serializable {
     public Fatutamento() {
     }
 
-    public Fatutamento(long id, String dia, String uf, double valor) {
-        this.id = id;
+    public Fatutamento(String dia, String uf, double valor) {
         this.dia = dia;
         this.uf = uf;
         this.valor = valor;
-    }
-
-    public long getId() {
-        return id;
-    }
-
-    public void setId(long id) {
-        this.id = id;
     }
 
     public String getDia() {
@@ -56,7 +46,6 @@ public class Fatutamento implements Serializable {
     @Override
     public String toString() {
         return "DesafioFaturamento.Fatutamento{" +
-                "id=" + id +
                 ", dia='" + dia + '\'' +
                 ", uf='" + uf + '\'' +
                 ", valor=" + valor +
